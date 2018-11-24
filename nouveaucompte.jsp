@@ -68,13 +68,7 @@
 						</select>
 						
 					</div>
-					<div class="formeligne">
-						<label class="formlabel" for="genre">Genre*</label>
-						<select id="genre" name="genre" class="formtxt">
-						    <option value="masculin">Masculin</option>
-						    <option value="feminin">Féminin</option>
-						</select>
-					</div>
+					
 					<div class="formeligne">
 						<label class="formlabel" for="ville">Ville*</label>
 						<input type="text" name="ville" id="ville" class="formtxt" />
